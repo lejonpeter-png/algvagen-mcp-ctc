@@ -1,0 +1,9 @@
+{
+  "ctc": {
+    "host": "192.168.2.74",
+    "port": 502,
+    "unit_id": 1,
+    "timeout": 5,
+    "notes": "CTC EcoPart i612M via Modbus TCP. Control registers (1000-series) reset after ~5 min."
+  }
+}
